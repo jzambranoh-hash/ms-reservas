@@ -1,0 +1,14 @@
+C:\Users\jzahuaca\exercises\Sesion 6\fleetgo-base\ms-reservas\src\main\java\com\nttdata\ms_reservas\cliente\CatalogoNoDisponibleException.java
+C:\Users\jzahuaca\exercises\Sesion 6\fleetgo-base\ms-reservas\src\main\java\com\nttdata\ms_reservas\cliente\VehiculoClient.java
+C:\Users\jzahuaca\exercises\Sesion 6\fleetgo-base\ms-reservas\src\main\java\com\nttdata\ms_reservas\cliente\VehiculoClientRest.java
+C:\Users\jzahuaca\exercises\Sesion 6\fleetgo-base\ms-reservas\src\main\java\com\nttdata\ms_reservas\cliente\VehiculoNoEncontradoException.java
+C:\Users\jzahuaca\exercises\Sesion 6\fleetgo-base\ms-reservas\src\main\java\com\nttdata\ms_reservas\config\ClienteConfig.java
+C:\Users\jzahuaca\exercises\Sesion 6\fleetgo-base\ms-reservas\src\main\java\com\nttdata\ms_reservas\model\Reserva.java
+C:\Users\jzahuaca\exercises\Sesion 6\fleetgo-base\ms-reservas\src\main\java\com\nttdata\ms_reservas\model\ReservaRequest.java
+C:\Users\jzahuaca\exercises\Sesion 6\fleetgo-base\ms-reservas\src\main\java\com\nttdata\ms_reservas\model\Vehiculo.java
+C:\Users\jzahuaca\exercises\Sesion 6\fleetgo-base\ms-reservas\src\main\java\com\nttdata\ms_reservas\MsReservasApplication.java
+C:\Users\jzahuaca\exercises\Sesion 6\fleetgo-base\ms-reservas\src\main\java\com\nttdata\ms_reservas\servicio\ReservaRepository.java
+C:\Users\jzahuaca\exercises\Sesion 6\fleetgo-base\ms-reservas\src\main\java\com\nttdata\ms_reservas\servicio\ReservaService.java
+C:\Users\jzahuaca\exercises\Sesion 6\fleetgo-base\ms-reservas\src\main\java\com\nttdata\ms_reservas\servicio\VehiculoNoDisponibleException.java
+C:\Users\jzahuaca\exercises\Sesion 6\fleetgo-base\ms-reservas\src\main\java\com\nttdata\ms_reservas\validacion\Validador.java
+C:\Users\jzahuaca\exercises\Sesion 6\fleetgo-base\ms-reservas\src\main\java\com\nttdata\ms_reservas\web\ReservaController.java
